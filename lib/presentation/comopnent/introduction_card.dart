@@ -30,7 +30,7 @@ class IntroductionCard extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              SizedBox(
+              const SizedBox(
                 height: 25,
               ),
               const CircleAvatar(
