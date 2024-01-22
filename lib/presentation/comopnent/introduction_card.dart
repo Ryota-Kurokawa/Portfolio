@@ -30,6 +30,9 @@ class IntroductionCard extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              SizedBox(
+                height: 25,
+              ),
               const CircleAvatar(
                 radius: 120.0,
                 backgroundImage: AssetImage('images/ryota.jpg'),
