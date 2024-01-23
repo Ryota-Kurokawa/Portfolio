@@ -47,7 +47,7 @@ class IntroductionCard extends StatelessWidget {
               ),
               const SizedBox(height: 8.0),
               const Text(
-                '関西学院大学工学部情報工学課程 26卒\nTech.Uni 渉外担当\nAn mobile app developer',
+                '関西学院大学工学部情報工学課程 26卒\nTech.Uni 渉外担当\nA mobile app developer',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 16.0,
