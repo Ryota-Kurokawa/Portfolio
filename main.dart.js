@@ -74542,7 +74542,7 @@ A.Oh.prototype={}
 A.pj.prototype={
 I(a){var s=null,r=this.c
 r=r==null?s:"GoException: "+r.a
-return A.a2J(!0,A.fz(A.fA(A.b([B.Qf,B.e5,A.eo(r==null?"page not found":r,s,s,s),B.e5,new A.yM(new A.Wk(a),B.Qh,s)],t.p),B.a0,B.dB,B.aq),s,s),B.aw,!0)}}
+return A.a2J(!0,A.fz(A.fA(A.b([B.Qf,B.e5,A.eo(r==null?"page not found":r,s,s,s),B.e5,new A.yM(new A.Wk(a),B.Qg,s)],t.p),B.a0,B.dB,B.aq),s,s),B.aw,!0)}}
 A.Wk.prototype={
 $0(){return A.v2(this.a).mL("/",null)},
 $S:0}
@@ -74731,7 +74731,7 @@ return A.dm(A.dG(A.dJ(s,A.xa(A.b([A.dm(s,s,A.b1(a,s,t.w).w.a.a*0.05),A.eo(this.c
 A.FF.prototype={
 I(a){var s,r,q=null,p=A.P(a).ax,o=p.y
 p=o==null?p.f:o
-o=A.Zp(q,B.Dd,new A.ZG(a),q,q,B.Qn,q)
+o=A.Zp(q,B.Dd,new A.ZG(a),q,q,B.Qm,q)
 s=A.P(a).ax
 r=s.y
 s=r==null?s.f:r
@@ -74760,7 +74760,7 @@ p=q.y
 q=p==null?q.f:p
 q=A.b([r.ax.c,q],t.t_)
 r=t.p
-return A.dm(A.dG(A.dJ(n,A.fA(A.b([B.KF,B.A7,B.e5,B.Qo,B.KG,B.Qg,B.e5,B.Ja,B.e5,A.xa(A.b([A.VO(B.Ql,new A.YG(o)),B.jC,A.VO(B.Qj,new A.YH(o)),B.jC,A.VO(B.Qe,new A.YI(o)),B.jC,A.VO(B.Qk,new A.YJ(o))],r),B.a0,B.dB,B.aq)],r),B.a0,B.ap,B.cz),B.u,n,n,new A.bZ(n,n,n,n,n,new A.jf(B.bo,B.ei,B.bg,q,s,n),B.ah),n,n,n,n,n,n,n),n,4,n),m.a.b*0.8,l.a.a*0.6)}}
+return A.dm(A.dG(A.dJ(n,A.fA(A.b([B.KF,B.A7,B.e5,B.Qn,B.KG,B.Qo,B.e5,B.Ja,B.e5,A.xa(A.b([A.VO(B.Qk,new A.YG(o)),B.jC,A.VO(B.Qi,new A.YH(o)),B.jC,A.VO(B.Qe,new A.YI(o)),B.jC,A.VO(B.Qj,new A.YJ(o))],r),B.a0,B.dB,B.aq)],r),B.a0,B.ap,B.cz),B.u,n,n,new A.bZ(n,n,n,n,n,new A.jf(B.bo,B.ei,B.bg,q,s,n),B.ah),n,n,n,n,n,n,n),n,4,n),m.a.b*0.8,l.a.a*0.6)}}
 A.YG.prototype={
 $0(){A.Cw(this.a.c,"_blank")},
 $S:0}
@@ -74774,7 +74774,7 @@ A.YJ.prototype={
 $0(){A.Cw(this.a.f,"_blank")},
 $S:0}
 A.q0.prototype={
-I(a){var s=null,r=A.P(a),q=A.RW(B.AP,B.Qm),p=t.w,o=A.b1(a,s,p).w
+I(a){var s=null,r=A.P(a),q=A.RW(B.AP,B.Ql),p=t.w,o=A.b1(a,s,p).w
 p=A.b1(a,s,p).w
 return A.a2L(q,r.ax.CW,A.fz(A.dm(A.afN(B.DG,A.afM(!0,B.lG,B.de,!1,!0,300,0,B.aG,0.3)),p.a.b*0.8,o.a.a*0.9),s,s),B.iZ)}}
 A.q1.prototype={
@@ -79487,8 +79487,8 @@ B.D2=new A.f8(58283,"MaterialIcons",null,!1)
 B.Da=new A.ja(B.D2,null,null)
 B.KD=new A.e1(4,null,null,null)
 B.NP=new A.k(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qi=new A.cw("\u5948\u826f\u770c\u51fa\u8eab",null,B.NP,null,null,null,null)
-B.EZ=A.b(s([B.Da,B.KD,B.Qi]),t.p)
+B.Qh=new A.cw("\u5948\u826f\u770c\u51fa\u8eab",null,B.NP,null,null,null,null)
+B.EZ=A.b(s([B.Da,B.KD,B.Qh]),t.p)
 B.Ja=new A.x9(B.av,B.dB,B.aq,B.a0,null,B.e8,null,B.EZ,null)
 B.Jb=new A.HA(null,null)
 B.cO=new A.nM(0,"idle")
@@ -80047,21 +80047,21 @@ B.H4=new A.vK(B.GQ,4283215696)
 B.Nt=new A.k(!0,B.H4,null,null,null,null,24,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qe=new A.cw("Qiita",null,B.Nt,null,null,null,null)
 B.Qf=new A.cw("Page Not Found",null,B.fY,null,null,null,null)
-B.NQ=new A.k(!0,null,null,null,null,null,16,null,null,1,null,null,3,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qg=new A.cw("\u95a2\u897f\u5b66\u9662\u5927\u5b66\u5de5\u5b66\u90e8\u60c5\u5831\u5de5\u5b66\u8ab2\u7a0b 26\u5352\nTech.Uni \u6e09\u5916\u62c5\u5f53\nAn mobile app developer",null,B.NQ,B.fT,null,null,null)
 B.Ow=new A.k(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qh=new A.cw("Go to home page",null,B.Ow,null,null,null,null)
+B.Qg=new A.cw("Go to home page",null,B.Ow,null,null,null,null)
 B.OX=new A.k(!0,B.dC,null,null,null,null,24,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qj=new A.cw("Zenn",null,B.OX,null,null,null,null)
+B.Qi=new A.cw("Zenn",null,B.OX,null,null,null,null)
 B.Pb=new A.k(!0,B.l,null,null,null,null,24,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qk=new A.cw("GitHub",null,B.Pb,null,null,null,null)
+B.Qj=new A.cw("GitHub",null,B.Pb,null,null,null,null)
 B.ON=new A.k(!0,null,null,null,null,null,24,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ql=new A.cw("X",null,B.ON,null,null,null,null)
-B.Qm=new A.cw("My Career",null,B.fX,null,null,null,null)
-B.Qn=new A.cw("Top",null,null,null,null,null,null)
+B.Qk=new A.cw("X",null,B.ON,null,null,null,null)
+B.Ql=new A.cw("My Career",null,B.fX,null,null,null,null)
+B.Qm=new A.cw("Top",null,null,null,null,null,null)
 B.xD=new A.cw("Home",null,null,null,null,null,null)
 B.OO=new A.k(!0,null,null,null,null,null,40,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Qo=new A.cw("\u9ed2\u5ddd \u826f\u592a",null,B.OO,null,null,null,null)
+B.Qn=new A.cw("\u9ed2\u5ddd \u826f\u592a",null,B.OO,null,null,null,null)
+B.NQ=new A.k(!0,null,null,null,null,null,16,null,null,1,null,null,3,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Qo=new A.cw("\u95a2\u897f\u5b66\u9662\u5927\u5b66\u5de5\u5b66\u90e8\u60c5\u5831\u5de5\u5b66\u8ab2\u7a0b 26\u5352\nTech.Uni \u6e09\u5916\u62c5\u5f53\nA mobile app developer",null,B.NQ,B.fT,null,null,null)
 B.OP=new A.k(!0,null,null,null,null,null,20,B.aY,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qp=new A.cw("The skill of the language & flamework I can use",null,B.OP,null,null,null,null)
 B.TG=new A.a65(0,"system")
