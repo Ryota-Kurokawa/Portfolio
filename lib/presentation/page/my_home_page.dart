@@ -14,6 +14,9 @@ class MyHomePage extends StatelessWidget {
         child: Column(
           children: [
             IntroductionCard(),
+            const SizedBox(
+              height: 24,
+            ),
           ],
         ),
       ),
