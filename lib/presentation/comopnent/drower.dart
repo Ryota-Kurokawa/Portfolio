@@ -9,11 +9,11 @@ class ManageDrawer extends StatelessWidget {
     return Drawer(
       child: ListView(
         children: [
-          DrawerHeader(
+          const DrawerHeader(
             decoration: BoxDecoration(
-              color: Theme.of(context).colorScheme.tertiary,
+              color: Color.fromARGB(255, 0, 37, 67),
             ),
-            child: const Column(
+            child: Column(
               children: [
                 CircleAvatar(
                   radius: 50,
@@ -41,15 +41,8 @@ class ManageDrawer extends StatelessWidget {
             leading: const Icon(Icons.person),
             textColor: Colors.white,
             iconColor: Colors.white,
-            backgroundColor: Theme.of(context).colorScheme.tertiary,
+            backgroundColor: const Color.fromARGB(255, 0, 37, 67),
             children: [
-              ListTile(
-                title: const Text('Career'),
-                textColor: Colors.white,
-                onTap: () {
-                  context.go('/career');
-                },
-              ),
               ListTile(
                 title: const Text('Skill'),
                 textColor: Colors.white,
